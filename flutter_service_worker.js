@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d630be31a4e1dea53227dd181a2f800a",
+  "assets/AssetManifest.json": "6d1344002cf5d18ab2aeda3421ae42b0",
 "assets/assets/fonts/Montserrat-Bold.ttf": "88932dadc42e1bba93b21a76de60ef7a",
 "assets/assets/fonts/Montserrat-Regular.ttf": "9c46095118380d38f12e67c916b427f9",
 "assets/assets/fonts/Scandia-Bold-Italic.ttf": "23a936b6e3e52406ec411a65839be017",
@@ -19,6 +19,8 @@ const RESOURCES = {
 "assets/assets/fonts/WorkSans-Medium.ttf": "488b6f72b6183415e7a20aafa803a0c8",
 "assets/assets/fonts/WorkSans-Regular.ttf": "30be604d29fd477c201fb1d6e668eaeb",
 "assets/assets/fonts/WorkSans-SemiBold.ttf": "6f8da6d25c25d58ef3ec1c8b7c0e69c3",
+"assets/assets/images/BYOB-cart.png": "456bcd4e73202ba7253802cfb2922200",
+"assets/assets/images/grey-placeholder-1.png": "b79b17370a9f41b6568197330501e695",
 "assets/assets/images/grey-placeholder.png": "b9e0a4168eda66158be747e448ba8eb3",
 "assets/assets/images/VejoLogoBlackHD.png": "109eca81e26a5f313bdac8ee11af5137",
 "assets/FontManifest.json": "976a9dc9cde2f6609fd4edce4ad0d212",
@@ -44,9 +46,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "ee32f467239a2369ee7b33d52c8b16b0",
-"/": "ee32f467239a2369ee7b33d52c8b16b0",
-"main.dart.js": "0f86ada20a5007f0d5e6102d83e547f0",
+"index.html": "7226111608177e17ce47c3670caf59c6",
+"/": "7226111608177e17ce47c3670caf59c6",
+"main.dart.js": "efb4c5ea9884eca0dda5e1137f78ba2c",
 "manifest.json": "e4def697e9e6ec945e24e6afee717460",
 "version.json": "3256af2eb4d3b9747e6d6f6c67beefd4"
 };
