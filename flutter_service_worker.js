@@ -46,10 +46,12 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "cd0bffc0b0e3fa29dec33c53e86b8051",
-"/": "cd0bffc0b0e3fa29dec33c53e86b8051",
-"main.dart.js": "6845f4cee2541c8174bfbce7302e7bfa",
+"img/VejoLogoBlackHD.png": "109eca81e26a5f313bdac8ee11af5137",
+"index.html": "b17c5543253553c094496efc2524a54a",
+"/": "b17c5543253553c094496efc2524a54a",
+"main.dart.js": "108a06e69c9dfab4ca7f1b7cb125b2ad",
 "manifest.json": "e4def697e9e6ec945e24e6afee717460",
+"styles.css": "550f270323946965b67715ee2acaf390",
 "version.json": "3256af2eb4d3b9747e6d6f6c67beefd4"
 };
 
